@@ -3,7 +3,6 @@ import pygame as pg
 
 import hexy as hx
 
-
 def make_hex_surface(color, radius, border_color=(100, 100, 100), border=True, hollow=False):
     """
     Draws a hexagon with gray borders on a pygame surface.
